@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikrohra/data-structures/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/kartikrohra/data-structures/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/kartikrohra/data-structures/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kartikrohra/data-structures/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/kartikrohra/data-structures/tree/main/0268-missing-number/) | Easy |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikrohra/data-structures/tree/master/2149-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/kartikrohra/data-structures/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
