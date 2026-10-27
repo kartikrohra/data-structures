@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikrohra/data-structures/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/kartikrohra/data-structures/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/kartikrohra/data-structures/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartikrohra/data-structures/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/kartikrohra/data-structures/tree/master/0169-majority-element) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kartikrohra/data-structures/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kartikrohra/data-structures/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/kartikrohra/data-structures/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/kartikrohra/data-structures/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartikrohra/data-structures/tree/master/0119-pascals-triangle-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/kartikrohra/data-structures/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
