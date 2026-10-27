@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikrohra/data-structures/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/kartikrohra/data-structures/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/kartikrohra/data-structures/tree/master/0118-pascals-triangle) |
@@ -16,59 +16,59 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikrohra/data-structures/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikrohra/data-structures/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikrohra/data-structures/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/kartikrohra/data-structures/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kartikrohra/data-structures/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikrohra/data-structures/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/kartikrohra/data-structures/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kartikrohra/data-structures/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/kartikrohra/data-structures/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/kartikrohra/data-structures/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartikrohra/data-structures/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/kartikrohra/data-structures/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/kartikrohra/data-structures/tree/main/0268-missing-number/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/kartikrohra/data-structures/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartikrohra/data-structures/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/kartikrohra/data-structures/tree/master/0169-majority-element) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/kartikrohra/data-structures/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/kartikrohra/data-structures/tree/master/0169-majority-element) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikrohra/data-structures/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0118-pascals-triangle](https://github.com/kartikrohra/data-structures/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kartikrohra/data-structures/tree/master/0119-pascals-triangle-ii) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/kartikrohra/data-structures/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
